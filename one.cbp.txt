@@ -1,0 +1,5 @@
+cout>> 'введите 2 числа'
+cin<<x
+cin<<y
+cout>>x
+cout>>y
